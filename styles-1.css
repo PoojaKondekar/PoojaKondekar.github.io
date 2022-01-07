@@ -22,6 +22,7 @@
      
  }
  .navbar{
+     padding-bottom: 0%;
      padding-left: 2%;
      padding-right: 2%;
  }
@@ -42,3 +43,23 @@
      margin-top:5%;
      margin-bottom: 5%;
  }
+
+
+    
+    
+ 
+ header .corousel-inner .item{
+     height:100vh;
+
+ }
+ .carousel-caption h1 {
+    font-family:    Garamond;
+    font-size:      5em;
+    color:          #35858B!important;
+    }
+    /* Description text */
+    .carousel-caption p {
+    font-family:    Garamond;
+    font-size:      5em;
+    color:          #35858B!important;
+    }
